@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MultilayerForm/static/css/main.ba49ec77.chunk.css",
+    "main.js": "/MultilayerForm/static/js/main.b88467e5.chunk.js",
+    "main.js.map": "/MultilayerForm/static/js/main.b88467e5.chunk.js.map",
+    "runtime~main.js": "/MultilayerForm/static/js/runtime~main.0550a16a.js",
+    "runtime~main.js.map": "/MultilayerForm/static/js/runtime~main.0550a16a.js.map",
+    "static/js/2.0e8a4728.chunk.js": "/MultilayerForm/static/js/2.0e8a4728.chunk.js",
+    "static/js/2.0e8a4728.chunk.js.map": "/MultilayerForm/static/js/2.0e8a4728.chunk.js.map",
+    "index.html": "/MultilayerForm/index.html",
+    "precache-manifest.37fda79aebffbdc217ca162441d8afaa.js": "/MultilayerForm/precache-manifest.37fda79aebffbdc217ca162441d8afaa.js",
+    "service-worker.js": "/MultilayerForm/service-worker.js",
+    "static/css/main.ba49ec77.chunk.css.map": "/MultilayerForm/static/css/main.ba49ec77.chunk.css.map"
+  }
+}
